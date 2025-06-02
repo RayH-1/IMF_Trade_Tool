@@ -1,0 +1,248 @@
+Code,Description,iso3
+AF,Afghanistan,AFG
+F19,Africa not allocated,
+AL,Albania,ALB
+DZ,Algeria,DZA
+AS,American Samoa,ASM
+AO,Angola,AGO
+AI,Anguilla,AIA
+AG,Antigua and Barbuda,ATG
+AR,Argentina,ARG
+AM,Armenia,ARM
+AW,Aruba,ABW
+S19,Asia not allocated,
+AU,Australia,AUS
+AT,Austria,AUT
+AZ,Azerbaijan,AZE
+BS,Bahamas,BHS
+BH,Bahrain,BHR
+BD,Bangladesh,BGD
+BB,Barbados,BRB
+BY,Belarus,BLR
+BE,Belgium,BEL
+R1,Belgo-Luxembourg Economic Union,
+BZ,Belize,BLZ
+BJ,Benin,BEN
+BM,Bermuda,BMU
+BT,Bhutan,BTN
+BO,Bolivia,BOL
+BA,Bosnia and Herzegovina,BIH
+BW,Botswana,BWA
+BR,Brazil,BRA
+BN,Brunei Darussalam,BRN
+BG,Bulgaria,BGR
+BF,Burkina Faso,BFA
+BI,Burundi,BDI
+CV,Cabo Verde,CPV
+KH,Cambodia,KHM
+CM,Cameroon,CMR
+CA,Canada,CAN
+CF,Central African Republic,CAF
+TD,Chad,TCD
+CL,Chile,CHL
+HK,"Hong Kong, China",HKG
+MO,Macao,MAC
+CN,China,CHN
+CO,Colombia,COL
+KM,Comoros,COM
+CD,"Congo, the Democratic Republic of the",COD
+CG,Congo,COG
+CR,Costa Rica,CRI
+CI,Cote d`Ivoire,CIV
+_X,Not allocated/unspecified,
+HR,Croatia,HRV
+CU,Cuba,CUB
+CW,Curacao,CUW
+CY,Cyprus,CYP
+CZ,Czech Republic,CZE
+CSH,Former Czechoslovakia,
+DK,Denmark,DNK
+DJ,Djibouti,DJI
+DM,Dominica,DMA
+DO,Dominican Republic,DOM
+DE2,East Germany,
+EC,Ecuador,ECU
+EG,Egypt,EGY
+SV,El Salvador,SLV
+GQ,Equatorial Guinea,GNQ
+ER,Eritrea,ERI
+EE,Estonia,EST
+SZ,Eswatini,SWZ
+ET,Ethiopia,ETH
+E19,Europe not allocated,
+FK,Falkland Islands (Malvinas),FLK
+FO,Faroe Islands,FRO
+FJ,Fiji,FJI
+FI,Finland,FIN
+FR,France,FRA
+PF,French Polynesia,PYF
+GA,Gabon,GAB
+GM,Gambia,GMB
+GE,Georgia,GEO
+DE,Germany,DEU
+GH,Ghana,GHA
+GI,Gibraltar,GIB
+GR,Greece,GRC
+GL,Greenland,GRL
+GD,Grenada,GRD
+GU,Guam,GUM
+GT,Guatemala,GTM
+GN,Guinea,GIN
+GW,Guinea-Bissau,GNB
+GY,Guyana,GUY
+HT,Haiti,HTI
+VA,Holy See (Vatican City State),VAT
+HN,Honduras,HND
+HU,Hungary,HUN
+IS,Iceland,ISL
+IN,India,IND
+ID,Indonesia,IDN
+IR,"Iran, Islamic Republic of",IRN
+IQ,Iraq,IRQ
+IE,Ireland,IRL
+IL,Israel,ISR
+IT,Italy,ITA
+JM,Jamaica,JAM
+JP,Japan,JPN
+JO,Jordan,JOR
+KZ,Kazakhstan,KAZ
+KE,Kenya,KEN
+KI,Kiribati,KIR
+KP,"Korea, Democratic People`s Republic of",PRK
+KR,"Korea, Republic of",KOR
+XK,"Kosovo, Republic of",
+KW,Kuwait,KWT
+KG,Kyrgyzstan,KGZ
+LA,Lao People`s Democratic Republic,LAO
+LV,Latvia,LVA
+LB,Lebanon,LBN
+LS,Lesotho,LSO
+LR,Liberia,LBR
+LY,Libya,LBY
+LT,Lithuania,LTU
+LU,Luxembourg,LUX
+MG,Madagascar,MDG
+MW,Malawi,MWI
+MY,Malaysia,MYS
+1C_554,"Malaysia, West",
+MV,Maldives,MDV
+ML,Mali,MLI
+MT,Malta,MLT
+MH,Marshall islands,MHL
+MR,Mauritania,MRT
+MU,Mauritius,MUS
+MX,Mexico,MEX
+FM,"Micronesia, Federated States of",FSM
+F979,Middle East and Central Asia not specified,
+MD,"Moldova, Republic of",MDA
+MN,Mongolia,MNG
+ME,Montenegro,MNE
+MS,Montserrat,MSR
+MA,Morocco,MAR
+MZ,Mozambique,MOZ
+MM,Myanmar,MMR
+NA,Namibia,NAM
+NR,Nauru,NRU
+NP,Nepal,NPL
+AN,Netherlands Antilles,
+NL,Netherlands,NLD
+NC,New Caledonia,NCL
+NZ,New Zealand,NZL
+NI,Nicaragua,NIC
+NE,Niger,NER
+NG,Nigeria,NGA
+MK,"North Macedonia, Republic of ",MKD
+1C_958,North Vietnam,
+NO,Norway,NOR
+OM,Oman,OMN
+PK,Pakistan,PAK
+PW,Palau,PLW
+PA,Panama,PAN
+PG,Papua New Guinea,PNG
+PY,Paraguay,PRY
+PE,Peru,PER
+PH,Philippines,PHL
+PL,Poland,POL
+PT,Portugal,PRT
+QA,Qatar,QAT
+RO,Romania,ROU
+RU,Russian Federation,RUS
+RW,Rwanda,RWA
+WS,Samoa,WSM
+SM,San Marino,SMR
+ST,Sao Tome and Principe,STP
+SA,Saudi Arabia,SAU
+SN,Senegal,SEN
+CS,Serbia and Montenegro,
+RS,Serbia,SRB
+SC,Seychelles,SYC
+SL,Sierra Leone,SLE
+SG,Singapore,SGP
+SX,Sint Maarten (Dutch part),SXM
+SK,Slovakia,SVK
+SI,Slovenia,SVN
+SB,Solomon Islands,SLB
+SO,Somalia,SOM
+ZA,South Africa,ZAF
+1C_198,South African Common Customs Area (SACCA),
+SS,South Sudan,SSD
+ES,Spain,ESP
+XR99,Special Categories and Economic Zones,
+LK,Sri Lanka,LKA
+KN,Saint Kitts and Nevis,KNA
+LC,Saint Lucia,LCA
+VC,Saint Vincent and the Grenadines,VCT
+SD,Sudan,SDN
+SR,Suriname,SUR
+SE,Sweden,SWE
+CH,Switzerland,CHE
+SY,Syrian Arab Republic,SYR
+TW,"Taiwan, Province of China",TWN
+TJ,Tajikistan,TJK
+TZ,"Tanzania, United Republic of",TZA
+TH,Thailand,THA
+TL,Timor-Leste,TLS
+TG,Togo,TGO
+TO,Tonga,TON
+TT,Trinidad and Tobago,TTO
+TN,Tunisia,TUN
+TR,Türkiye,TUR
+TM,Turkmenistan,TKM
+TV,Tuvalu,TUV
+UG,Uganda,UGA
+UA,Ukraine,UKR
+AE,United Arab Emirates,ARE
+GB,United Kingdom,GBR
+US,United States,USA
+UY,Uruguay,URY
+SUH,Former U.S.S.R.,
+UZ,Uzbekistan,UZB
+VU,Vanuatu,VUT
+VE,"Venezuela, Bolivarian Republic",VEN
+VN,Viet Nam,VNM
+PS,"Palestine, State of",PSE
+A109,Western Hemisphere not allocated,
+1C_473,Yemen Arab Rep.,
+1C_459,"Yemen, P.D. Rep.",
+YE,Yemen,YEM
+YUC,Former Yugoslavia,
+ZM,Zambia,ZMB
+ZW,Zimbabwe,ZWE
+XR29,Advanced Economies (IMF),
+F1,Africa,
+R14,Community of Independent States (CIS),
+XS25,Developing Asia (IMF),
+XR43,Emerging and Developing Countries,
+1C_903,Emerging and Developing Europe,
+1C_080,Export earnings: fuel,
+1C_092,Export earnings: nonfuel,
+U2,Euro Area (Member States and Institutions of the Euro Area) changing composition,
+E1,Europe,
+B0,EU (Member States and Institutions of the European Union) changing composition,
+F97,Middle East,
+XS5,Middle East and Central Asia,
+1C_440,"Middle East, North Africa, Afghanistan, and Pakistan",
+X88,Other Countries n.i.e. (IMF),
+F6,Sub-Saharan Africa,
+A10,Western Hemisphere,
+W00,"All Countries, excluding the IO",
